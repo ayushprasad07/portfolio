@@ -1,6 +1,5 @@
 "use client"
 import React from 'react'
-import skills from '../data/teckskills.json'
 import { StarsBackground } from './ui/stars-background'
 import { ShootingStars } from './ui/shooting-stars'
 import { HoverEffect } from './ui/card-hover-effect'

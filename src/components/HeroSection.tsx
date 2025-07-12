@@ -14,7 +14,9 @@ const HeroSection = () => {
             fill="blue"
         />
         <h1 className='mt-28 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400'>Seamlessly connecting design and development</h1>
-        <p className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>I'm Ayush Prasad, a Web Developer passionate about crafting intuitive user experiences. When I'm not coding for clients, I'm busy building my own projects and pushing the boundaries of web innovation."</p>
+        <p className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>
+          I&apos;m Ayush Prasad, a Web Developer passionate about crafting intuitive user experiences. When I&apos;m not coding for clients, I&apos;m busy building my own projects and pushing the boundaries of web innovation.
+        </p>
         <div className='mt-8'>
             <Link href={'/about'}>
                 <Button
