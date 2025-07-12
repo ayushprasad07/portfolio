@@ -18,13 +18,13 @@ interface Skill{
 
 const AboutTeck = () => {
   return (
-    <div className="h-auto p-8 relative flex items-center justify-center overflow-hidden">
+    <div className="h-[45rem] p-8 relative flex items-center justify-center overflow-hidden">
         <div className="w-full max-w-7xl mx-auto h-full flex flex-col justify-center">
                 <ShootingStars />
                 <StarsBackground />
             <div>
                 <div className="text-center">
-                    <p className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-white font-bold inter-var">
+                    <p className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600">
                     Technical Skills
                     </p>
                 </div>
