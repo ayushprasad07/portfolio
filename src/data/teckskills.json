@@ -1,0 +1,95 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "image": "/javascript.png",
+      "isFeatured": true,
+      "detail": "Core language for building interactive web applications."
+    },
+    {
+      "id": 2,
+      "name": "TypeScript",
+      "image": "/typescript.png",
+      "isFeatured": true,
+      "detail": "JavaScript with type safety, enhancing developer productivity."
+    },
+    {
+      "id": 3,
+      "name": "React",
+      "image": "/react.png",
+      "isFeatured": true,
+      "detail": "JavaScript library for building user interfaces using components."
+    },
+    {
+      "id": 4,
+      "name": "Next.js",
+      "image": "/nextjs.png",
+      "isFeatured": true,
+      "detail": "React framework with server-side rendering and routing capabilities."
+    },
+    {
+      "id": 5,
+      "name": "Tailwind CSS",
+      "image": "/tailwindcss.png",
+      "isFeatured": false,
+      "detail": "Utility-first CSS framework for rapid UI development."
+    },
+    {
+      "id": 6,
+      "name": "Node.js",
+      "image": "/nodejs.png",
+      "isFeatured": true,
+      "detail": "JavaScript runtime for building scalable backend services."
+    },
+    {
+      "id": 7,
+      "name": "Express",
+      "image": "/express.png",
+      "isFeatured": false,
+      "detail": "Minimalist web framework for Node.js, used to build APIs."
+    },
+    {
+      "id": 8,
+      "name": "MongoDB",
+      "image": "/mongodb.png",
+      "isFeatured": true,
+      "detail": "NoSQL database used for storing JSON-like data structures."
+    },
+    {
+      "id": 9,
+      "name": "Android",
+      "image": "/android.png",
+      "isFeatured": false,
+      "detail": "Mobile OS used to build native apps, especially with Java/Kotlin."
+    },
+    {
+      "id": 10,
+      "name": "Kotlin",
+      "image": "/kotlin.png",
+      "isFeatured": false,
+      "detail": "Modern programming language for Android app development."
+    },
+    {
+      "id": 11,
+      "name": "Java",
+      "image": "/java.png",
+      "isFeatured": false,
+      "detail": "Widely-used object-oriented language, especially for Android and backend."
+    },
+    {
+      "id": 12,
+      "name": "Git",
+      "image": "/git.png",
+      "isFeatured": false,
+      "detail": "Version control system for tracking code changes and collaboration."
+    },
+    {
+      "id": 13,
+      "name": "GitHub",
+      "image": "/github.png",
+      "isFeatured": false,
+      "detail": "Platform to host and manage code repositories with Git."
+    }
+  ]
+}
