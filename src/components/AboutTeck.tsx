@@ -4,17 +4,6 @@ import { StarsBackground } from './ui/stars-background'
 import { ShootingStars } from './ui/shooting-stars'
 import { HoverEffect } from './ui/card-hover-effect'
 
-
-interface Skill{
-    id:number,
-    name: string,
-    image:string,
-    detail:string,
-    isFeatured: boolean
-}
-
-
-
 const AboutTeck = () => {
   return (
     <div className="h-[45rem] p-8 relative flex items-center justify-center overflow-hidden">
