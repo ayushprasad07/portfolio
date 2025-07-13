@@ -10,8 +10,8 @@ const Studies = () => {
           </h1>
         </div>
         <div className='my-8'>
-          <h3 className='text-2xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600'>KIET Group of Institiutons</h3>
-          <p className='font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-500 to-neutral-700'>B.Tech : Computer Science Of Technology (AI) | CGPA: 9.32</p>
+          <h3 className='text-2xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600'>KIET Group of Institiutons (Present)</h3>
+          <p className='font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-500 to-neutral-700'>B.Tech : Computer Science Of Technology (AI) | CGPA: 9.13</p>
         </div>
         <div className='my-8'>
           <h3 className='text-2xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600'>Aparnaa World School, Jharsuguda, Odisha</h3>
