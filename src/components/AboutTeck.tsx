@@ -6,7 +6,7 @@ import { HoverEffect } from './ui/card-hover-effect'
 
 const AboutTeck = () => {
   return (
-    <div className="h-[45rem] p-8 relative flex items-center justify-center overflow-hidden">
+    <div className="h-auto p-8 relative flex items-center justify-center overflow-hidden">
         <div className="w-full max-w-7xl mx-auto h-full flex flex-col justify-center">
                 <ShootingStars />
                 <StarsBackground />
