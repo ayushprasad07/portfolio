@@ -52,7 +52,7 @@ const Introduction = () => {
             </div>
             <div className="md:col-span-2">
                 <p className="w-full mt-5 text-neutral-400 text-base md:text-lg">
-                    I'm Ayush Prasad, a dedicated full-stack web developer with a focus on building dynamic and scalable web applications. With hands-on experience in technologies like React, Node.js, Express, MongoDB, and Tailwind CSS, I strive to create seamless user experiences. I've worked on various projects — including educational tools, digital notice boards, and AI-powered platforms — that blend functionality with modern design. Whether it's frontend creativity or backend logic, I enjoy the full spectrum of web development and am always eager to learn, collaborate, and innovate.
+                    {`I'm Ayush Prasad, a dedicated full-stack web developer with a focus on building dynamic and scalable web applications. With hands-on experience in technologies like React, Node.js, Express, MongoDB, and Tailwind CSS, I strive to create seamless user experiences. I've worked on various projects — including educational tools, digital notice boards, and AI-powered platforms — that blend functionality with modern design. Whether it's frontend creativity or backend logic, I enjoy the full spectrum of web development and am always eager to learn, collaborate, and innovate.`}
                 </p>
             </div>
             </div>
